@@ -1,0 +1,100 @@
+body { 
+  font-family: Arial, san-serif; 
+}
+
+.content {
+  margin-left: 10%; 
+  margin-right: 10%;
+}
+
+td, th { font-family: Goudy, Garamond, Palatino, serif; }
+
+
+.center { text-align: center; }
+.big { font-size: 125%; }
+.strong { font-weight: bold; }
+
+.inlineimage {
+	margin-right: 15px;
+
+}
+.epigram { 
+  position: absolute;
+  top: 239px;
+  text-align: center; 
+  font-style: italic; 
+	height: 20px;
+	background: #000;
+	color: #FFF;
+  font-weight: bold;
+  width: 100%;
+ left: 0px;
+  right: 0px;
+  bottom: 259px;
+  font-family: optima, verdana, arial, helvetica, sans-serif;
+}
+
+.homebar {
+	width: 100%;
+	font-family: optima, verdana, arial, helvetica, sans-serif;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	text-size: 110%;
+	font-weight: bold;
+	height: 20px;
+	background: #000;
+	color: #FFF;
+	text-align: center;
+}
+
+.homebar a {
+	color: #FFF;
+	text-decoration: none;
+	}
+.homebar a:link {color:#FFF;}
+.homebar a:visited {color:#FFF;}
+.homebar a:hover {background-color:#FF0; color: #000;}
+
+.name {
+	margin-top: 30px;
+	margin-left: 255px;
+	text-align: center;
+}
+.portrait {
+  	position: absolute;
+	left: 0px;
+	top: 20px;
+}
+
+.small {
+	font-size: 90%;
+}
+
+.blackbox {
+	color: #FFF;
+	width: 100%;
+}
+
+.dayjob {
+float: left;
+width: 350px;
+align: center;
+padding: 1em;
+}
+.speaking {
+margin-left: 375px;
+padding: 1em;
+max-width: 36em;
+align: center;
+}
+.footer { 
+  text-align: center; 
+  font-style: italic;
+  font-size: 85%;
+  clear:all;
+}
+#content{width: 90%;margin: 10px auto;
+align: center;}
+
